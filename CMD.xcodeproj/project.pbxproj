@@ -33,6 +33,24 @@
 		89A25B9322FF2055003AA61B /* CMD */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CMD; sourceTree = BUILT_PRODUCTS_DIR; };
 		89A25B9622FF2055003AA61B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		89B34766233F95FC003E2B28 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		B8A1D72123B21BE30027F1F5 /* StringConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringConstants.swift; sourceTree = "<group>"; };
+		B8A1D72323B21BE30027F1F5 /* rules.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = rules.json; sourceTree = "<group>"; };
+		B8A1D72523B21BE30027F1F5 /* CollectionsExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionsExtensions.swift; sourceTree = "<group>"; };
+		B8A1D72623B21BE30027F1F5 /* StringExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringExtensions.swift; sourceTree = "<group>"; };
+		B8A1D72723B21BE30027F1F5 /* NumericExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumericExtensions.swift; sourceTree = "<group>"; };
+		B8A1D72A23B21BE30027F1F5 /* SentencePart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SentencePart.swift; sourceTree = "<group>"; };
+		B8A1D72B23B21BE30027F1F5 /* Sentence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sentence.swift; sourceTree = "<group>"; };
+		B8A1D72C23B21BE30027F1F5 /* Correct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Correct.swift; sourceTree = "<group>"; };
+		B8A1D72E23B21BE30027F1F5 /* Rules.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rules.swift; sourceTree = "<group>"; };
+		B8A1D72F23B21BE30027F1F5 /* rules.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = rules.json; sourceTree = "<group>"; };
+		B8A1D73123B21BE30027F1F5 /* SentenceControllerError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SentenceControllerError.swift; sourceTree = "<group>"; };
+		B8A1D73323B21BE30027F1F5 /* RegexResult.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegexResult.swift; sourceTree = "<group>"; };
+		B8A1D73523B21BE30027F1F5 /* CorrectSentence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CorrectSentence.swift; sourceTree = "<group>"; };
+		B8A1D73623B21BE30027F1F5 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		B8A1D73923B21BE30027F1F5 /* SentenceController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SentenceController.swift; sourceTree = "<group>"; };
+		B8A1D73A23B21BE30027F1F5 /* SentenceController+FindCorrectOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SentenceController+FindCorrectOne.swift"; sourceTree = "<group>"; };
+		B8A1D73C23B21BE30027F1F5 /* CartesianProduct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CartesianProduct.swift; sourceTree = "<group>"; };
+		B8A1D73E23B21BE30027F1F5 /* PySwiftyRegex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PySwiftyRegex.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +69,7 @@
 			children = (
 				89A25B9522FF2055003AA61B /* CMD */,
 				89A25B9422FF2055003AA61B /* Products */,
+				B8A1D71F23B21BE30027F1F5 /* EnglishPlanetEngine */,
 			);
 			sourceTree = "<group>";
 		};
@@ -72,6 +91,135 @@
 				897B2A7D2340ED4F00CC591A /* Dump.swift */,
 			);
 			path = CMD;
+			sourceTree = "<group>";
+		};
+		B8A1D71F23B21BE30027F1F5 /* EnglishPlanetEngine */ = {
+			isa = PBXGroup;
+			children = (
+				B8A1D72023B21BE30027F1F5 /* Constants */,
+				B8A1D72223B21BE30027F1F5 /* Resources */,
+				B8A1D72423B21BE30027F1F5 /* Extensions */,
+				B8A1D72823B21BE30027F1F5 /* Model */,
+				B8A1D73623B21BE30027F1F5 /* main.swift */,
+				B8A1D73723B21BE30027F1F5 /* Controllers */,
+			);
+			path = EnglishPlanetEngine;
+			sourceTree = "<group>";
+		};
+		B8A1D72023B21BE30027F1F5 /* Constants */ = {
+			isa = PBXGroup;
+			children = (
+				B8A1D72123B21BE30027F1F5 /* StringConstants.swift */,
+			);
+			path = Constants;
+			sourceTree = "<group>";
+		};
+		B8A1D72223B21BE30027F1F5 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				B8A1D72323B21BE30027F1F5 /* rules.json */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		B8A1D72423B21BE30027F1F5 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				B8A1D72523B21BE30027F1F5 /* CollectionsExtensions.swift */,
+				B8A1D72623B21BE30027F1F5 /* StringExtensions.swift */,
+				B8A1D72723B21BE30027F1F5 /* NumericExtensions.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		B8A1D72823B21BE30027F1F5 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				B8A1D72923B21BE30027F1F5 /* Sentence */,
+				B8A1D72D23B21BE30027F1F5 /* Rules */,
+				B8A1D73023B21BE30027F1F5 /* Errors */,
+				B8A1D73223B21BE30027F1F5 /* RegexResult */,
+				B8A1D73423B21BE30027F1F5 /* CorrectSentence */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		B8A1D72923B21BE30027F1F5 /* Sentence */ = {
+			isa = PBXGroup;
+			children = (
+				B8A1D72A23B21BE30027F1F5 /* SentencePart.swift */,
+				B8A1D72B23B21BE30027F1F5 /* Sentence.swift */,
+				B8A1D72C23B21BE30027F1F5 /* Correct.swift */,
+			);
+			path = Sentence;
+			sourceTree = "<group>";
+		};
+		B8A1D72D23B21BE30027F1F5 /* Rules */ = {
+			isa = PBXGroup;
+			children = (
+				B8A1D72E23B21BE30027F1F5 /* Rules.swift */,
+				B8A1D72F23B21BE30027F1F5 /* rules.json */,
+			);
+			path = Rules;
+			sourceTree = "<group>";
+		};
+		B8A1D73023B21BE30027F1F5 /* Errors */ = {
+			isa = PBXGroup;
+			children = (
+				B8A1D73123B21BE30027F1F5 /* SentenceControllerError.swift */,
+			);
+			path = Errors;
+			sourceTree = "<group>";
+		};
+		B8A1D73223B21BE30027F1F5 /* RegexResult */ = {
+			isa = PBXGroup;
+			children = (
+				B8A1D73323B21BE30027F1F5 /* RegexResult.swift */,
+			);
+			path = RegexResult;
+			sourceTree = "<group>";
+		};
+		B8A1D73423B21BE30027F1F5 /* CorrectSentence */ = {
+			isa = PBXGroup;
+			children = (
+				B8A1D73523B21BE30027F1F5 /* CorrectSentence.swift */,
+			);
+			path = CorrectSentence;
+			sourceTree = "<group>";
+		};
+		B8A1D73723B21BE30027F1F5 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				B8A1D73823B21BE30027F1F5 /* SentenceController */,
+				B8A1D73B23B21BE30027F1F5 /* CartesianProduct */,
+				B8A1D73D23B21BE30027F1F5 /* PySwiftyRegex */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		B8A1D73823B21BE30027F1F5 /* SentenceController */ = {
+			isa = PBXGroup;
+			children = (
+				B8A1D73923B21BE30027F1F5 /* SentenceController.swift */,
+				B8A1D73A23B21BE30027F1F5 /* SentenceController+FindCorrectOne.swift */,
+			);
+			path = SentenceController;
+			sourceTree = "<group>";
+		};
+		B8A1D73B23B21BE30027F1F5 /* CartesianProduct */ = {
+			isa = PBXGroup;
+			children = (
+				B8A1D73C23B21BE30027F1F5 /* CartesianProduct.swift */,
+			);
+			path = CartesianProduct;
+			sourceTree = "<group>";
+		};
+		B8A1D73D23B21BE30027F1F5 /* PySwiftyRegex */ = {
+			isa = PBXGroup;
+			children = (
+				B8A1D73E23B21BE30027F1F5 /* PySwiftyRegex.swift */,
+			);
+			path = PySwiftyRegex;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

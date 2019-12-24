@@ -1,0 +1,140 @@
+{
+    "1" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Present Simple",
+            "Form" : [
+                ["I, You, We, They", "V"],
+                ["He, She, It", "Vs"]
+            ],
+            "Usage" : "Permanent Actions"
+        }
+    },
+    
+    "2" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Present Simple",
+            "Form" : [
+                ["I, You, We, They", "V"],
+                ["He, She, It", "Vs"]
+            ],
+            "Usage" : "Repeated actions",
+            "Markers" : "every day, every week, every month, every year, every summer, once a, twice a, three times a, four times a, five times a, always, often, usually , sometimes, seldom, rarely, hardly ever, never"
+        }
+    },
+    
+    "3" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Present Simple",
+            "Form" : [
+                ["I, You, We, They", "V"],
+                ["He, She, It", "Vs"]
+            ],
+            "Usage" : "General Truth",
+            "Markers" : "every day, every week, every month, every year, every summer, once a, twice a, three times a, four times a, five times a, always, often, usually , sometimes, seldom, rarely, hardly ever, never"
+        }
+    },
+    
+    "4" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Present Simple",
+            "Form" : [
+                ["I, You, We, They", "V"],
+                ["He, She, It", "Vs"]
+            ],
+            "Usage" : "Timetables",
+            "Markers" : "at 5:00, 11:15, 7:30, on Monday, on Tuesday, on Wednesday, on Thursday, on Friday, on Saturday, on Sunday, on Mondays, on Tuesdays, on Wednesdays, on Thursdays, on Fridays, on Saturdays, on Sundays, in the morning, in the mornings, in the afternoon, in the afternoons, in the evening, in the evenings, tomorrow, the day after tomorrow"
+        }
+    },
+    
+    "5" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Present Continuous",
+            "Form" : [
+                ["I", "am", "Ving"],
+                ["You, We, They", "are", "Ving"],
+                ["He, She, It", "is", "Ving"]
+            ],
+            "Usage" : "Now Action",
+            "Markers" : "now, right now, at the moment"
+        }
+    },
+    
+    "6" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Present Continuous",
+            "Form" : [
+                ["I", "am", "Ving"],
+                ["You, We, They", "are", "Ving"],
+                ["He, She, It", "is", "Ving"]
+            ],
+            "Usage" : "Around Now Actions",
+            "Markers" : "nowadays, these days, currently, at present"
+        }
+    },
+    
+    "7" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Present Continuous",
+            "Form" : [
+                ["I", "am", "Ving"],
+                ["You, We, They", "are", "Ving"],
+                ["He, She, It", "is", "Ving"]
+            ],
+            "Usage" : "Changing Actions",
+            "Markers" : "nowadays, these days, currently, at present, every day, every month, every year"
+        }
+    },
+    
+    "8" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Present Continuous",
+            "Form" : [
+                ["I", "am", "Ving"],
+                ["You, We, They", "are", "Ving"],
+                ["He, She, It", "is", "Ving"]
+            ],
+            "Usage" : "Arranged Actions",
+            "Markers" : "tomorrow, today, this week, at 5:00, at 11:15, at 7:30, next week, next year, next month, on Monday, on Tuesday, on Wednesday, on Thursday, on Friday, on Saturday, on Sunday"
+        }
+    },
+    
+    "10" : {
+        "type" : "Markers",
+        "fields" : {
+            "Type" : "Personal",
+            "Position" : "Before main verbe"
+        }
+    },
+    
+    "11" : {
+        "type" : "Preposition",
+        "fields" : {
+            "Usage" : "To show direction"
+        }
+    },
+    
+    "12" : {
+        "type" : "Article",
+        "fields" : {
+            "Type" : "Specific",
+            "Usage" : "Before buildings"
+        }
+    },
+    
+    "13" : {
+        "type" : "Article",
+        "fields" : {
+            "Type" : "Unspecific",
+            "Usage" : "Before singular countable nouns"
+        }
+    }
+    
+}

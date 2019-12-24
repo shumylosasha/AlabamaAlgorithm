@@ -1,0 +1,2759 @@
+{
+    "1" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Present Simple",
+            "Form" : [
+                ["I, You, We, They", "V"],
+                ["He, She, It", "V+s"]
+            ],
+            "Usage" : "Permanent Actions"
+        }
+    },
+    
+    "2" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Present Simple",
+            "Form" : [
+                ["I, You, We, They", "V"],
+                ["He, She, It", "V+s"]
+            ],
+            "Usage" : "Repeated actions",
+            "Marker" : "every day, every week, every month, every year, every summer, once a day, twice a week, three times a year, always, often, usually, sometimes, seldom, rarely, hardly ever, never"
+        }
+    },
+    
+    "3" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Present Simple",
+            "Form" : [
+                ["I, You, We, They", "V"],
+                ["He, She, It", "V+s"]
+            ],
+            "Usage" : "General Truth"
+        }
+    },
+    
+    "4" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Present Simple",
+            "Form" : [
+                ["I, You, We, They", "V"],
+                ["He, She, It", "V+s"]
+            ],
+            "Usage" : "Timetables",
+            "Marker" : "at 5:00, at 4:00, at 4, at 4 o'clock, at 7:00, at 7, at 7 o'clock, on Monday, on Tuesday, on Wednesday, on Thursday, on Friday, on Saturday, on Sunday, on Mondays, on Tuesdays, on Wednesdays, on Thursdays, on Fridays, on Saturdays, on Sundays, in the morning, in the mornings, in the afternoon, in the afternoons, in the evening, in the evenings, tomorrow, the day after tomorrow"
+        }
+    },
+    
+    "5" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Present Simple",
+            "Form" : [
+                ["I, You, We, They", "V"],
+                ["He, She, It", "V+s"]
+            ],
+            "Usage" : "Sport Commentaries"
+        }
+    },
+
+    "6" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Present Simple",
+            "Form" : [
+                ["I, You, We, They", "V"],
+                ["He, She, It", "V+s"]
+            ],
+            "Usage" : "Narrative"
+        }
+    },
+
+     "7" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Present Simple",
+            "Form" : [
+                ["I, You, We, They", "V"],
+                ["He, She, It", "V+s"]
+            ],
+            "Usage" : "Headlines"
+        }
+    },
+    
+    "8" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Marker",
+            "Type" : "Fixed",
+            "Usage" : "At the beginning or at the end of the sentence"
+        }
+    },
+
+    "9" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Marker",
+            "Type" : "Personal",
+            "Usage" : "Before the main verb"
+        }
+    },
+
+    "10" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Marker",
+            "Type" : "Personal with the verb 'to be'",
+            "Usage" : "After the verb 'to be'"
+        }
+    },
+    
+    "11" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Present Continuous",
+            "Form" : [
+                ["I", "am", "V+ing"],
+                ["You, We, They", "are", "V+ing"],
+                ["He, She, It", "is", "V+ing"]
+            ],
+            "Usage" : "Now Action",
+            "Marker" : "now, right now, at the moment"
+        }
+    },
+
+     "12" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Present Continuous",
+            "Form" : [
+                ["I", "am", "V+ing"],
+                ["You, We, They", "are", "V+ing"],
+                ["He, She, It", "is", "V+ing"]
+            ],
+            "Usage" : "Around Now Action",
+            "Marker" : "nowadays, these days, currently, at present"
+        }
+    },
+    
+    "13" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Present Continuous",
+            "Form" : [
+                ["I", "am", "V+ing"],
+                ["You, We, They", "are", "V+ing"],
+                ["He, She, It", "is", "V+ing"]
+            ],
+            "Usage" : "Changing or Developing Actions",
+            "Marker" : "nowadays, these days, currently, at present, every day, every month, every year"
+        }
+    },
+
+    "14" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Present Continuous",
+            "Form" : [
+                ["I", "am", "V+ing"],
+                ["You, We, They", "are", "V+ing"],
+                ["He, She, It", "is", "V+ing"]
+            ],
+            "Usage" : "Arranged Actions / Arrangement for Future",
+            "Marker" : "tomorrow, today, this week, today at 6, at 6 today, at six today, today at six, at 5, at 5:00, at 11:15, at 7:30, next week, next year, next month, on Monday, on Tuesday, on Wednesday, on Thursday, on Friday, on Saturday, on Sunday"
+        }
+    },
+
+    "15" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Present Continuous",
+            "Form" : [
+                ["I", "am", "V+ing"],
+                ["You, We, They", "are", "V+ing"],
+                ["He, She, It", "is", "V+ing"]
+            ],
+            "Usage" : "Annoyance and Irritation"
+        }
+    },
+
+
+    "16" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule": "Non-continuous verbs",
+            "Usage" : "Present Simple instead of Present Continuous for Non-continuous verbs"
+        }
+    },
+
+    "17" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Present Perfect",
+            "Form" : [
+                ["I, You", "have", "V3"],
+                ["We, They", "have", "V3"],
+                ["He, She, It", "has", "V3"]
+            ],
+            "Usage" : "Finished action in the past with result in present (NO past TIME reference)"
+        }
+    },
+
+    "18" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Present Perfect",
+            "Form" : [
+                ["I, You", "have", "V3"],
+                ["We, They", "have", "V3"],
+                ["He, She, It", "has", "V3"]
+            ],
+            "Usage" : "Experience (NO past TIME reference)"
+        }
+    },
+
+    "19" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Present Perfect",
+            "Form" : [
+                 ["I, You", "have", "V3"],
+                 ["We, They", "have", "V3"],
+                 ["He, She, It", "has", "V3"]
+            ],
+            "Usage" : "Finished action within Unfinished present period of time"
+        }
+    },
+
+    "20" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Present Perfect Continuous",
+            "Form" : [
+                ["I, You", "", "been", "V+ing"],
+                ["We, They", "have", "been", "V+ing"],
+                ["He, She", "has", "been", "V+ing"],
+                ["It", "", "been", "V+ing"]
+            ],
+            "Usage" : "Unfinished action (started in the past and continues up to the present) with emphasis on duration"
+        }
+    },
+    
+    "21" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Present Perfect Continuous",
+            "Form" : [
+                ["I, You", "", "been", "V+ing"],
+                ["We, They", "have", "been", "V+ing"],
+                ["He, She", "has", "been", "V+ing"],
+                ["It", "", "been", "V+ing"]
+            ],
+            "Usage" : "Effect (an action which started in the past continued up to the present and has just finished but continues in the present effect)"
+        }
+    },
+
+    "22" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule": "Non-continuous verbs",
+            "Type" : "Present Perfect instead of Present Perfect Continuous for Non-continuous verbs"
+        }
+    },
+
+    "23" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Past Simple",
+            "Form" : [
+                 ["I, You, We, They", "V2"],
+                 ["He, She, It", "V2"]
+            ],
+            "Usage" : "Finished action in the past with Past Time reference (time: stated, known or implied)"
+        }
+    },
+
+    "24" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Past Simple",
+            "Form" : [
+                 ["I, You, We, They", "V2"],
+                 ["He, She, It", "V2"]
+            ],
+            "Usage" : "Chain of finished past actions (two or more finished actions in the past that happen one after another)"
+        }
+    },
+
+    "25" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Past Simple",
+            "Form" : [
+                 ["I, You, We, They", "V2"],
+                 ["He, She, It", "V2"]
+            ],
+            "Usage" : "Past habits or states (+ used to)"
+        }
+    },
+
+    "26" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Past Simple",
+            "Form" : [
+                 ["I, You, We, They", "V2"],
+                 ["He, She, It", "V2"]
+            ],
+            "Usage" : "Biographies"
+        }
+    },
+
+    "27" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Past Simple",
+            "Form" : [
+                 ["I, You, We, They", "V2"],
+                 ["He, She, It", "V2"]
+            ],
+            "Usage" : "Talking about dead people"
+        }
+    },
+
+    "28" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Past Continuous",
+            "Form" : [
+                ["I", "was", "V+ing"],
+                ["He, She, It", "was", "V+ing"],
+                ["We, You, They", "were", "V+ing"]
+            ],
+            "Usage" : "Action in progress at a stated time in the past"
+        }
+    },
+
+    "29" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Past Continuous",
+            "Form" : [
+                ["I", "was", "V+ing"],
+                ["He, She, It", "was", "V+ing"],
+                ["We, You, They", "were", "V+ing"]
+            ],
+            "Usage" : "Action that was in progress in the past and was interrupted by another past action (Past Simple)"
+        }
+    },
+
+    "30" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Past Continuous",
+            "Form" : [
+                 ["I", "was", "V+ing"],
+                 ["He, She, It", "was", "V+ing"],
+                 ["We, You, They", "were", "V+ing"]
+            ],
+            "Usage" : "Two or more simultaneous past actions"
+        }
+    },
+
+    "31" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Past Continuous",
+            "Form" : [
+                 ["I", "was", "V+ing"],
+                 ["He, She, It", "was", "V+ing"],
+                 ["We, You, They", "were", "V+ing"]
+            ],
+            "Usage" : "Describing the atmosphere, setting, background"
+        }
+    },
+
+    "32" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule": "Non-continuous verbs",
+            "Type" : "Past Simple instead of Past Continuous for Non-continuous verbs"
+        }
+    },
+
+    "33" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Past Perfect",
+            "Form" : [
+                ["I", "had", "V3"],
+                ["You, We, They", "had", "V3"],
+                ["He, She, It", "had", "V3"]
+            ],
+            "Usage" : "Action that happened before another past action"
+        }
+    },
+
+    "34" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Past Perfect",
+            "Form" : [
+                 ["I", "had", "V3"],
+                 ["You, We, They", "had", "V3"],
+                 ["He, She, It", "had", "V3"]
+            ],
+            "Usage" : "Action that happened before a stated time in the past"
+        }
+    },
+
+    "35" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Past Perfect Continuous",
+            "Form" : [
+                ["I, You", "had been", "V+ing"],
+                ["We, They", "had been", "V+ing"],
+                ["He, She, It", "had been", "V+ing"]
+            ],
+            "Usage" : "Action that started in the past and finished in the past with emphasis on duration"
+        }
+    },
+
+    "36" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Past Perfect Continuous",
+            "Form" : [
+                 ["I, You", "had been", "V+ing"],
+                 ["We, They", "had been", "V+ing"],
+                 ["He, She, It", "had been", "V+ing"]
+            ],
+            "Usage" : "Effect. (An action which started in the past, continued in the past and finished in the past with past effect)"
+        }
+    },
+
+    "37" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule": "Non-continuous verbs",
+            "Usage" : "Past Perfect instead of Past Perfect Continuous for Non-continuous verbs"
+        }
+    },
+
+    "38" : {
+        "type" : "tense",
+        "fields" : {
+            "Form": "Used to + infinitive",
+            "Usage" : "Past habit: repeated actions and states"
+        }
+    },
+
+    "39" : {
+        "type" : "tense",
+        "fields" : {
+            "Form": "Would + bare infinitive",
+            "Usage" : "Past habits: repeated actions not states"
+        }
+    },
+
+    "40" : {
+        "type" : "tense",
+        "fields" : {
+            "Form": "Get used to + gerund",
+            "Usage" : "The process (action) of becoming in a habit of doing something"
+        }
+    },
+
+    "41" : {
+        "type" : "tense",
+        "fields" : {
+            "Form": "Be used to + gerund",
+            "Usage" : "The state of having a habit"
+        }
+    },
+
+    "42" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Future Simple",
+            "Form" : [
+                ["I, You", "will", "Verb"],
+                ["We, They", "will", "Verb"],
+                ["He, She, It", "will", "Verb"]
+            ],
+            "Usage" : "An action that will possibly happen in the future (50/50)"
+        }
+    },
+
+    "43" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Future Simple",
+            "Form" : [
+                 ["I, You", "will", "Verb"],
+                 ["We, They", "will", "Verb"],
+                 ["He, She, It", "will", "Verb"]
+            ],
+            "Usage" : "Predictions about the future (based on personal opinion)"
+        }
+    },
+
+    "44" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Future Simple",
+            "Form" : [
+                 ["I, You", "will", "Verb"],
+                 ["We, They", "will", "Verb"],
+                 ["He, She, It", "will", "Verb"]
+            ],
+            "Usage" : "Promises"
+        }
+    },
+
+     "45" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Future Simple",
+            "Form" : [
+                 ["I, You", "will", "Verb"],
+                 ["We, They", "will", "Verb"],
+                 ["He, She, It", "will", "Verb"]
+            ],
+            "Usage" : "On-the-spot decisions"
+        }
+    },
+
+    "46" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Future Simple",
+            "Form" : [
+                 ["I, You", "will", "Verb"],
+                 ["We, They", "will", "Verb"],
+                 ["He, She, It", "will", "Verb"]
+            ],
+            "Usage" : "Offers (shall)"
+        }
+    },
+
+    "47" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Future Continuous",
+            "Form" : [
+                ["I, You", "will be", "V+ing"],
+                ["We, They", "will be", "V+ing"],
+                ["He, She, It", "will be", "V+ing"]
+            ],
+            "Usage" : "Action in progress at some moment in the future"
+        }
+    },
+
+    "48" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Future Continuous",
+            "Form" : [
+                ["I, You", "will be", "V+ing"],
+                ["We, They", "will be", "V+ing"],
+                ["He, She, It", "will be", "V+ing"]
+            ],
+            "Usage" : "Two or more simultaneous actions in the future"
+        }
+    },
+
+    "49" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Future Continuous",
+            "Form" : [
+                ["I, You", "will be", "V+ing"],
+                ["We, They", "will be", "V+ing"],
+                ["He, She, It", "will be", "V+ing"]
+            ],
+            "Usage" : "Action in progress in the interrupted by another future action (represented by the conditional clause: when, if, etc. + present tense)"
+        }
+    },
+    
+    "50" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Non-continuous verbs",
+            "Usage" : "Future Simple instead of Future Continuous for Non-continuous verbs"
+        }
+    },
+
+    "51" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Future Perfect",
+            "Form" : [
+                ["I, You", "will have", "V3"],
+                ["We, They", "will have", "V3"],
+                ["He, She, It", "will have", "V3"]
+            ],
+            "Usage" : "An action that will happen in future before another future action"
+        }
+    },
+
+    "52" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Future Perfect",
+            "Form" : [
+                ["I, You", "will have", "V3"],
+                ["We, They", "will have", "V3"],
+                ["He, She, It", "will have", "V3"]
+            ],
+            "Usage" : "An action that will happen in the future before a stated time in the future"
+        }
+    },
+
+     "53" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Future Perfect Continuous",
+            "Form" : [
+                ["I, You", "will ", "V+ing"],
+                ["We, They", "have", "V+ing"],
+                ["He, She, It", "been", "V+ing"]
+            ],
+            "Usage" : "An action that will start in the future, continue in the future and finish in the future with duration"
+        }
+    },
+
+    "54" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Future Perfect Continuous",
+            "Form" : [
+                ["I, You", "will ", "V+ing"],
+                ["We, They", "have", "V+ing"],
+                ["He, She, It", "been", "V+ing"]
+            ],
+            "Usage" : "A current present action that will continue until a particular event or time in the future with certain duration"
+        }
+    },
+
+    "55" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Non-continuous verbs",
+            "Type" : "Future Perfect instead of Future Perfect Continuous for Non-continuous verbs"
+        }
+    },
+
+
+    "56" : {
+        "type" : "tense",
+        "fields" : {
+            "Future form" : "To be going to",
+            "Form" : [
+                 ["I", "am", ""],
+                 ["You, We, They", "are", "going to + Verb"],
+                 ["He, She, It", "is", ""]
+            ],
+            "Usage" : "Plans and ambitions (without arrangements)"
+        }
+    },
+
+    "57" : {
+        "type" : "tense",
+        "fields" : {
+            "Future form" : "To be going to",
+            "Form" : [
+                 ["I", "am", ""],
+                 ["You, We, They", "are", "going to + Verb"],
+                 ["He, She, It", "is", ""]
+            ],
+            "Usage" : "Predictions based on evidence or facts"
+        }
+    },
+
+    "58" : {
+        "type" : "tense",
+        "fields" : {
+            "Future form" : "To be going to",
+            "Form" : [
+                 ["I", "am", ""],
+                 ["You, We, They", "are", "going to + Verb"],
+                 ["He, She, It", "is", ""]
+            ],
+            "Usage" : "Previously planned action"
+        }
+    },
+
+    "59" : {
+        "type" : "tense",
+        "fields" : {
+            "Future form" : "Would like",
+            "Form" : [
+                 ["Would like", "smth"],
+                 ["Would like", "to + do smth"]
+            ],
+            "Usage" : "To express our wishes for present and future"
+        }
+    },
+
+    "60" : {
+        "type" : "tense",
+        "fields" : {
+            "Future form" : "Would rather",
+            "Usage" : "To express our preference for present and future"
+        }
+    },
+
+    "61" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Present Simple Passive",
+            "Form" : [
+                ["Subject + are/is + V3"]
+            ],
+            "Usage" : "Permanent Actions"
+        }
+    },
+    
+    "62" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Present Simple Passive",
+            "Form" : [
+                ["Subject + are/is + V3"]
+            ],
+            "Usage" : "Repeated Actions",
+            "Marker" : "every day, every week, every month, every year, every summer, once a day, twice a week, three times a year, always, often, usually, sometimes, seldom, rarely, hardly ever, never"
+        }
+    },
+    
+    "63" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Present Simple Passive",
+            "Form" : [
+                ["Subject + are/is + V3"]
+            ],
+            "Usage" : "General Truth",
+            "Marker" : "every day, every week, every month, every year, every summer, once a day, twice a week, three times a year, always, often, usually, sometimes, seldom, rarely, hardly ever, never"
+        }
+    },
+    
+    "64" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Present Simple Passive",
+            "Form" : [
+                ["Subject + are/is + V3"]
+            ],
+            "Usage" : "Timetables"
+        }
+    },
+    
+    "65" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Present Simple Passive",
+            "Form" : [
+                ["Subject + are/is + V3"]
+            ],
+            "Usage" : "Sport Commentaries"
+        }
+    },
+    
+    "66" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Present Continuous Passive",
+            "Form" : [
+                ["Subject", "am", "being V3"],
+                ["Subject", "are", "being V3"],
+                ["Subject", "is", "being V3"]
+            ],
+            "Usage" : "Now Action",
+            "Marker" : "now, right now, at the moment"
+        }
+    },
+
+     "67" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Present Continuous Passive",
+            "Form" : [
+                ["Subject", "am", "being V3"],
+                ["Subject", "are", "being V3"],
+                ["Subject", "is", "being V3"]
+            ],
+            "Usage" : "Around Now Actions",
+            "Marker" : "nowadays, these days, currently, at present"
+        }
+    },
+    
+    "68" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Present Continuous Passive",
+            "Form" : [
+                ["Subject", "am", "being V3"],
+                ["Subject", "are", "being V3"],
+                ["Subject", "is", "being V3"]
+            ],
+            "Usage" : "Changing or Developing Actions",
+            "Marker" : "nowadays, these days, currently, at present, every day, every month, every year"
+        }
+    },
+
+    "69" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Present Continuous Passive",
+            "Form" : [
+                ["Subject", "am", "being V3"],
+                ["Subject", "are", "being V3"],
+                ["Subject", "is", "being V3"]
+            ],
+            "Usage" : "Arranged Actions / Arrangement for Future",
+            "Marker" : "tomorrow, today, this week, at 5:00, at 11:15, at 7:30, next week, next year, next month, on Monday, on Tuesday, on Wednesday, on Thursday, on Friday, on Saturday, on Sunday"
+        }
+    },
+
+    "70" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Present Continuous Passive",
+            "Form" : [
+                ["Subject", "am", "being V3"],
+                ["Subject", "are", "being V3"],
+                ["Subject", "is", "being V3"]
+            ],
+            "Usage" : "Annoyance and Irritation"
+        }
+    },
+
+    "71" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule": "Non-continuous verbs",
+            "Type" : "Present Simple Passive instead of Present Continuous Passive for Non-continuous verbs"
+        }
+    },
+
+    "72" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Present Perfect Passive",
+            "Form" : [
+                ["Subject", "", "been", "V3"],
+                ["Subject", "have", "been", "V3"],
+                ["Subject", "has", "been", "V3"],
+                ["Subject", "", "been", "V3"],
+            ],
+            "Usage" : "Finished action in the past with result in the present with no past time reference"
+        }
+    },
+
+    "73" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Present Perfect Passive",
+            "Form" : [
+                ["Subject", "", "been", "V3"],
+                ["Subject", "have", "been", "V3"],
+                ["Subject", "has", "been", "V3"],
+                ["Subject", "", "been", "V3"],
+            ],
+            "Usage" : "Experience"
+        }
+    },
+
+    "74" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Present Perfect Passive",
+            "Form" : [
+                ["Subject", "", "been", "V3"],
+                ["Subject", "have", "been", "V3"],
+                ["Subject", "has", "been", "V3"],
+                ["Subject", "", "been", "V3"],
+            ],
+            "Usage" : "Finished action within Unfinished present period of time"
+        }
+    },
+
+    "75" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Present Perfect Continuous Passive",
+            "Form" : [
+                ["Subject", "have", "been being V3"],
+                ["Subject", "has", "been being V3"],
+                ["Subject", "", "been being V3"],
+            ],
+            "Usage" : "Unfinished action (started in the past and continues up to present) with emphasis on duration"
+        }
+    },
+
+    "76" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Present Perfect Continuous Passive",
+            "Form" : [
+                ["Subject", "have", "been being V3"],
+                ["Subject", "has", "been being V3"],
+                ["Subject", "", "been being V3"],
+            ],
+            "Usage" : "An action which started in the past continued up to present and has just finished but continues in the present effect"
+        }
+    },
+
+    "77" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule": "Non-continuous verbs",
+            "Type" : "Present Perfect Passive instead of Present Perfect Continuous Passive for Non-continuous verbs"
+        }
+    },
+
+    "78" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Past Simple Passive",
+            "Form" : [
+                ["Subject", "was", "V3"],
+                ["Subject", "were", "V3"],
+                ["Subject", "", "V3"]
+            ],
+            "Usage" : "Finished action in the past with time (stated, known or implied)"
+        }
+    },
+
+    "79" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Past Simple Passive",
+            "Form" : [
+                ["Subject", "was", "V3"],
+                ["Subject", "were", "V3"],
+                ["Subject", "", "V3"]
+            ],
+            "Usage" : "Chain of finished past actions"
+        }
+    },
+
+    "80" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Past Simple Passive",
+            "Form" : [
+                ["Subject", "was", "V3"],
+                ["Subject", "were", "V3"],
+                ["Subject", "", "V3"]
+            ],
+            "Usage" : "Past habits or states (+ used to)"
+        }
+    },
+
+    "81" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Past Simple Passive",
+            "Form" : [
+                ["Subject", "was", "V3"],
+                ["Subject", "were", "V3"],
+                ["Subject", "", "V3"]
+            ],
+            "Usage" : "Biographies"
+        }
+    },
+
+    "82" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Past Simple Passive",
+            "Form" : [
+                ["Subject", "was", "V3"],
+                ["Subject", "were", "V3"],
+                ["Subject", "", "V3"]
+            ],
+            "Usage" : "Talking about dead people"
+        }
+    },
+
+    "83" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Past Continuous Passive",
+            "Form" : [
+                ["Subject", "was", "being V3"],
+                ["Subject", "were", "being V3"],
+                ["Subject", "", "being V3"],
+            ],
+            "Usage" : "Action in progress at stated time in the past"
+        }
+    },
+
+    "84" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Past Continuous Passive",
+            "Form" : [
+                 ["Subject", "was", "being V3"],
+                 ["Subject", "were", "being V3"],
+                 ["Subject", "", "being V3"],
+            ],
+            "Usage" : "Action that was in progress in the past and was interrupted by another past action"
+        }
+    },
+
+    "85" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Past Continuous Passive",
+            "Form" : [
+                 ["Subject", "was", "being V3"],
+                 ["Subject", "were", "being V3"],
+                 ["Subject", "", "being V3"],
+            ],
+            "Usage" : "Two or more simultaneous past actions"
+        }
+    },
+
+    "86" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Past Continuous Passive",
+            "Form" : [
+                 ["Subject", "was", "being V3"],
+                 ["Subject", "were", "being V3"],
+                 ["Subject", "", "being V3"],
+            ],
+            "Usage" : "Describing the atmosphere, setting, background"
+        }
+    },
+
+    "87" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule": "Non-continuous verbs",
+            "Type" : "Past Simple Passive instead of Past Continuous for Non-continuous verbs"
+        }
+    },
+
+    "88" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Past Perfect Passive",
+            "Form" : [
+                 ["Subject + had + been + V3"]
+            ],
+            "Usage" : "Action that happened before another past action"
+        }
+    },
+
+    "89" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Past Perfect Passive",
+            "Form" : [
+                 ["Subject + had + been + V3"]
+            ],
+            "Usage" : "Action that happened before a stated time in the past"
+        }
+    },
+
+    "90" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Past Perfect Continuous Passive",
+            "Form" : [
+                 ["Subject + had + been + being + V3"]
+            ],
+            "Usage" : "Action that started in the past and finished in the past with emphasis on duration"
+        }
+    },
+
+    "91" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule": "Non-continuous verbs",
+            "Type" : "Past Perfect Passive instead of Past Perfect Continuous Passive for Non-continuous verbs"
+        }
+    },
+
+    "92" : {
+        "type" : "tense",
+        "fields" : {
+            "Form": "Used to + infinitive Passive",
+            "Usage" : "Past habit and permanent states"
+        }
+    },
+
+    "93" : {
+        "type" : "tense",
+        "fields" : {
+            "Form": "Would + bare infinitive Passive",
+            "Usage" : "Past habits – repeated actions not states"
+        }
+    },
+
+    "94" : {
+        "type" : "tense",
+        "fields" : {
+            "Form": "Get used to + gerund Passive",
+            "Usage" : "The process of becoming in a habit of doing something"
+        }
+    },
+
+    "95" : {
+        "type" : "tense",
+        "fields" : {
+            "Form": "Be used to + gerund Passive",
+            "Usage" : "The state of having a habit"
+        }
+    },
+
+    "96" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Future Simple Passive",
+            "Form" : [
+                 ["Subject + will + be + V3"]
+            ],
+            "Usage" : "An action that will possibly happen in the future (50/50)"
+        }
+    },
+
+    "97" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Future Simple Passive",
+            "Form" : [
+                 ["Subject + will + be + V3"]
+            ],
+            "Usage" : "Predictions about future (based on opinion)"
+        }
+    },
+
+    "98" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Future Simple Passive",
+            "Form" : [
+                 ["Subject + will + be + V3"]
+            ],
+            "Usage" : "Promises"
+        }
+    },
+
+     "99" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Future Simple Passive",
+            "Form" : [
+                 ["Subject + will + be + V3"]
+            ],
+            "Usage" : "On-the-spot decisions"
+        }
+    },
+
+    "100" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Future Simple Passive",
+            "Form" : [
+                 ["Subject + will + be + V3"]
+            ],
+            "Usage" : "Offers (shall)"
+        }
+    },
+
+    "101" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Future Continuous Passive",
+            "Form" : [
+                 ["Subject + will + be + being + V3"]
+            ],
+            "Usage" : "Action in progress at some moment in the future"
+        }
+    },
+
+    "102" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Future Continuous Passive",
+            "Form" : [
+                ["Subject + will + be + being + V3"]
+            ],
+            "Usage" : "Two or more simultaneous actions in the future"
+        }
+    },
+
+    "103" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Future Continuous Passive",
+            "Form" : [
+                ["Subject + will + be + being + V3"]
+            ],
+            "Usage" : "Action in progress interrupted by another future action (represented by the conditional clause: when, if, etc. + present simple)"
+        }
+    },
+    
+    "104" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Non-continuous verbs",
+            "Usage" : "Future Simple Passive instead of Future Continuous Passive for Non-continuous verbs"
+        }
+    },
+
+    "105" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Future Perfect Passive",
+            "Form" : [
+                ["Subject + will + have + been + V3"]
+            ],
+            "Usage" : "An action that will happen in future before another future action"
+        }
+    },
+
+    "106" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Future Perfect Passive",
+            "Form" : [
+                ["Subject + will + have + been + V3"]
+            ],
+            "Usage" : "An action that will happen in future before a stated time in the future"
+        }
+    },
+
+    "107" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Future Perfect Continuous Passive",
+            "Form" : [
+                ["Subject + will + have + been + being + V3"]
+            ],
+            "Usage" : "An action that will start in the future, continue in the future and finish in the future with duration"
+        }
+    },
+
+    "108" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Future Perfect Continuous Passive",
+            "Form" : [
+                ["Subject + will + have + been + being + V3"]
+            ],
+            "Usage" : "A current present action that will continue until a particular event or time in the future with certain duration"
+        }
+    },
+
+    "109" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Non-continuous verbs",
+            "Usage" : "Future Perfect Passive instead of Future Perfect Continuous Passive for Non-continuous verbs"
+        }
+    },
+
+    "110" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Conditional",
+            "Type" : "0 General truth",
+            "Form" : [
+                ["CONDITION", "RESULT"],
+                ["If + Pr. Simple", "Pr. Simple"]
+            ],
+            "Usage" : "They are used to express something which is always true."
+        }
+    },
+
+    "111" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Conditional",
+            "Type" : "1 Real present or future",
+            "Form" : [
+                ["CONDITION", "RESULT"],
+                ["If + Present \nSimple", "Future simple / Imperative"]
+            ],
+            "Usage" : "They are used to express real or very probably situations in the present or future"
+        }
+    },
+
+    "112" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Conditional",
+            "Type" : "2 Unreal present",
+            "Form" : [
+                ["CONDITION", "RESULT"],
+                ["If + Past \nSimple", "Would/Could/Might + Infinitive"]
+            ],
+            "Usage" : "They are used to express imaginary situations which are contrary to facts in the present and, therefore, are unlikely to happen in the present or future. They are also used to give advice"
+        }
+    },
+
+    "113" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Conditional",
+            "Type" : "2 Unreal generally",
+            "Form" : [
+                ["CONDITION", "RESULT"],
+                ["If + Past \nSimple", "Would/Could/Might + Infinitive"]
+            ],
+            "Usage" : "They are used to express imaginary situations which are contrary to facts in the present and, therefore, are unlikely to happen in the present or future. They are also used to give advice"
+        }
+    },
+
+    "114" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Conditional",
+            "Type" : "3 Unreal past",
+            "Form" : [
+                ["CONDITION", "RESULT"],
+                ["If + Past \nPerfect", "Would/Could/Might have + V3"]
+            ],
+            "Usage" : "They are used to express imaginary situations which are contrary to facts in the past. They are also used to express regrets or criticism"
+        }
+    },
+
+    "115" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Conditional",
+            "Type" : "Mixed Type 2 + Type 3",
+            "Form" : [
+                ["CONDITION", "RESULT"],
+                ["If + Past \nSimple", "Would/Could \nhave + V3"]
+            ]
+        }
+    },
+
+    "116" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Conditional",
+            "Type" : "Mixed Type 3 + Type 2",
+            "Form" : [
+                ["CONDITION", "RESULT"],
+                ["If + Past \nPerfect", "Would/Could/Might + Infinitive"]
+            ]
+        }
+    },
+
+    "117" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Conditional",
+            "Type" : "1 Real present or future",
+            "Form" : [
+                ["If - clause", "Main clause"],
+                ["If + present simple / present cont. / present perfect / present perfect cont.", "future/imperative can/may/might/must/should/could + present bare infinitive"]
+            ],
+            "Usage" : "Omission of if Conditional sentences. Type 1 Real present or future"
+        }
+    },
+
+    "118" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Conditional sentences",
+            "Type" : "Type 2 Unreal present",
+            "Form" : [
+                ["If - clause", "Main clause"],
+                ["If + present simple / present cont. / present perfect / present perfect cont.", "future/imperative can/may/might/must/should/could + present bare infinitive"]
+            ],
+            "Usage" : "Omission of if Conditional sentences. Type 2 Unreal present"
+        }
+    },
+
+
+    "119" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Conditional sentences",
+            "Type" : "Type 2 Unreal generally",
+            "Form" : [
+                ["If - clause", "Main clause"],
+                ["If + present simple / present cont. / present perfect / present perfect cont.", "future/imperative can/may/might/must/should/could + present bare infinitive"]
+            ],
+            "Usage" : "Omission of if Conditional sentences. Type 2 Unreal generally"
+        }
+    },
+
+    "120" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Conditional sentences",
+            "Type" : "Type 3 Unreal past",
+            "Form" : [
+                ["If - clause", "Main clause"],
+                ["If + present simple / present cont. / present perfect / present perfect cont.", "future/imperative can/may/might/must/should/could + present bare infinitive"]
+            ],
+            "Usage" : "Omission of if Conditional sentences. Type 3 Unreal past"
+        }
+    },
+
+
+    "121" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Conditional sentences",
+            "Type" : "Mixed Type 2 + Type 3",
+            "Form" : [
+                ["If - clause", "Main clause"],
+                ["If + present simple / present cont. / present perfect / present perfect cont.", "future/imperative can/may/might/must/should/could + present bare infinitive"]
+            ],
+            "Usage" : "Omission of if Conditional sentences. Mixed Type 2 + Type 3"
+        }
+    },
+
+
+    "122" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Conditional sentences",
+            "Type" : "Mixed Type 3 + Type 2",
+            "Form" : [
+                ["If - clause", "Main clause"],
+                ["If + present simple / present cont. / present perfect / present perfect cont.", "future/imperative can/may/might/must/should/could + present bare infinitive"]
+            ],
+            "Usage" : "Omission of if Conditional sentences. Mixed Type 3 + Type 2"
+        }
+    },
+
+    "123" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Conditional sentences",
+            "Type" : "if only + past Simple or Continuous",
+            "Form" : [
+                ["If - clause", "Main clause"],
+                ["If + present simple / present cont. / present perfect / present perfect cont.", "future/imperative can/may/might/must/should/could + present bare infinitive"]
+            ],
+            "Usage" : "Conditional sentence if only + past Simple or Continuous"
+        }
+    },
+
+    "124" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Conditional sentences",
+            "Type" : "if only + past Perfect or Past Perfect Continuous",
+            "Form" : [
+                ["If - clause", "Main clause"],
+                ["If + present simple / present cont. / present perfect / present perfect cont.", "future/imperative can/may/might/must/should/could + present bare infinitive"]
+            ],
+            "Usage" : "Conditional sentence if only + past Perfect or Past Perfect Continuous"
+        }
+    },
+
+    "125" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Conditional sentences",
+            "Type" : "if only + would + bare infinitive",
+            "Form" : [
+                ["If - clause", "Main clause"],
+                ["If + present simple / present cont. / present perfect / present perfect cont.", "future/imperative can/may/might/must/should/could + present bare infinitive"]
+            ],
+            "Usage" : "Conditional sentence if only + would + bare infinitive"
+        }
+    },
+
+    "126" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Conditional sentences",
+            "Type" : "Wish + past Simple or Continuous ",
+            "Form" : [
+                ["If - clause", "Main clause"],
+                ["If + present simple / present cont. / present perfect / present perfect cont.", "future/imperative can/may/might/must/should/could + present bare infinitive"]
+            ],
+            "Usage" : "Conditional sentence Wish + past Simple or Continuous"
+        }
+    },
+
+    "127" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Conditional sentences",
+            "Type" : "Wish + past Perfect or Past Perfect Continuous",
+            "Form" : [
+                ["If - clause", "Main clause"],
+                ["If + present simple / present cont. / present perfect / present perfect cont.", "future/imperative can/may/might/must/should/could + present bare infinitive"]
+            ],
+            "Usage" : "Conditional sentence Wish + past Perfect or Past Perfect Continuous"
+        }
+    },
+
+    "128" : {
+        "type" : "tense",
+        "fields" : {
+            "Tense": "Conditional sentences",
+            "Type" : "Wish + would + bare infinitive",
+            "Form" : [
+                ["If - clause", "Main clause"],
+                ["If + present simple / present cont. / present perfect / present perfect cont.", "future/imperative can/may/might/must/should/could + present bare infinitive"]
+            ],
+            "Usage" : "Conditional sentence Wish + would + bare infinitive"
+        }
+    },
+
+    "129" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "The to + infinitive",
+            "Usage" : "To express purpose"
+        }
+    },
+
+    "130" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "The to + infinitive",
+            "Usage" : "After certain verbs"
+        }
+    },
+
+    "131" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "The to + infinitive",
+            "Usage" : "After certain adjectives"
+        }
+    },
+
+    "132" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "The to + infinitive",
+            "Usage" : "After ‘would like’ ‘would love’ ‘would prefer’"
+        }
+    },
+
+    "133" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "The to + infinitive",
+            "Usage" : "After certain nouns"
+        }
+    },
+
+    "134" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "The to + infinitive",
+            "Usage" : "After ‘too’ and ‘enough’"
+        }
+    },
+
+    "135" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "The to + infinitive",
+            "Usage" : "After ‘be + the first/second/last/next’"
+        }
+    },
+
+    "136" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "The to + infinitive",
+            "Usage" : "After ‘it + be + adjective (+ of + noun/pronoun)’"
+        }
+    },
+
+    "137" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "The to + infinitive",
+            "Usage" : "After ‘so + adjective + as’"
+        }
+    },
+
+    "138" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "The to + infinitive",
+            "Usage" : "With ‘only’ expressing an unsatisfactory results"
+        }
+    },
+
+    "139" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "The to + infinitive",
+            "Usage" : "In the expression: for + noun/pronoun + to"
+        }
+    },
+
+    "140" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "The to + infinitive",
+            "Usage" : "After question words in statements"
+        }
+    },
+
+    "141" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "The to + infinitive",
+            "Usage" : "After a verb + an object"
+        }
+    },
+
+    "142" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "The to + infinitive",
+            "Usage" : "After the verb in the passive form"
+        }
+    },
+
+    "143" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "The to + infinitive",
+            "Usage" : "In the expressions: to tell you the truth / to begin with / to be honest / to start with / to sum up"
+        }
+    },
+
+    "144" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "The bare infinitive",
+            "Usage" : "After modal verbs"
+        }
+    },
+
+    "145" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "The bare infinitive",
+            "Usage" : "After ‘had better’ ‘would rather’ and ‘would sooner’"
+        }
+    },
+
+    "146" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "The bare infinitive",
+            "Usage" : "After feel/hear/let/make/see in the active (but in the passive they take 'to infinitive')"
+        }
+    },
+
+    "147" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "The bare infinitive",
+            "Usage" : "After hear / listen / notice / see / watch + bare infinitive to express a complete action one saw or heard from the beginning to the end"
+        }
+    },
+
+    "148" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "The gerund",
+            "Usage" : "As a noun"
+        }
+    },
+
+     "149" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "The gerund",
+            "Usage" : "After prepositions"
+        }
+    },
+
+     "150" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "The gerund",
+            "Usage" : "After certain verbs"
+        }
+    },
+
+     "151" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "The gerund",
+            "Usage" : "After verbs that express preference: like /dislike /detest /hate /enjoy /love /prefer"
+        }
+    },
+
+     "152" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "The gerund",
+            "Usage" : "After phrases: I’m busy / It’s no use / It’s no good / It’s not worth / What’s the use of / Can’t help / Can’t stand / Feel like / There’s no point (in) / Have difficulty (in) / In addition to/ As well as / Have trouble / Have a hard time"
+        }
+    },
+
+     "153" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "The gerund",
+            "Usage" : "After: look forward to / be used to / get used to / object to / be accustomed to / get accustomed to / admit (to)"
+        }
+    },
+
+    "154" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "The gerund",
+            "Usage" : "After hear / listen / notice / see / watch + gerund to express an incomplete action, an action in progress or a long action"
+        }
+    },
+
+    "155" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "The gerund",
+            "Usage" : "After: spend / waste (money, time...)"
+        }
+    },
+
+    "156" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Modal Verbs",
+            "Function" : "Ability present"
+        }
+    },
+
+    "157" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Modal Verbs",
+            "Function" : "Ability in the past (constant)"
+        }
+    },
+
+    "158" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Modal Verbs",
+            "Function" : "Ability in the past (singular, situational)"
+        }
+    },
+
+    "159" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Modal Verbs",
+            "Function" : "Ability future"
+        }
+    },
+
+    "160" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Modal Verbs",
+            "Function" : "Obligation (when someone or something decided for you) present"
+        }
+    },
+
+    "161" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Modal Verbs",
+            "Function" : "Obligation (when someone or something decided for you) past"
+        }
+    },
+
+    "162" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Modal Verbs",
+            "Function" : "Obligation (when someone or something decided for you) future"
+        }
+    },
+
+    "163" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Modal Verbs",
+            "Function" : "Obligation (when you decided for yourself, it’s important) present"
+        }
+    },
+
+    "164" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Modal Verbs",
+            "Function" : "Obligation (when you decided for yourself, it’s important) past"
+        }
+    },
+
+    "165" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Modal Verbs",
+            "Function" : "Obligation (when you decided for yourself, it’s important) future"
+        }
+    },
+
+    "166" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Modal Verbs",
+            "Function" : "Requests informal"
+        }
+    },
+
+    "167" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Modal Verbs",
+            "Function" : "Requests more polite"
+        }
+    },
+
+    "168" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Modal Verbs",
+            "Function" : "Requests very formal"
+        }
+    },
+
+    "169" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Modal Verbs",
+            "Function" : "Possibility present"
+        }
+    },
+
+    "170" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Modal Verbs",
+            "Function" : "Possibility past"
+        }
+    },
+
+    "171" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Modal Verbs",
+            "Function" : "Possibility future"
+        }
+    },
+
+    "172" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Modal Verbs",
+            "Function" : "Necessity present"
+        }
+    },
+
+    "173" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Modal Verbs",
+            "Function" : "Necessity past"
+        }
+    },
+
+    "174" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Modal Verbs",
+            "Function" : "Necessity future"
+        }
+    },
+
+    "175" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Modal Verbs",
+            "Function" : "Prohibition / Duty present"
+        }
+    },
+
+    "176" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Modal Verbs",
+            "Function" : "Prohibition / Duty past"
+        }
+    },
+
+    "177" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Modal Verbs",
+            "Function" : "Prohibition / Duty future"
+        }
+    },
+
+    "178" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Modal Verbs",
+            "Function" : "Criticism present"
+        }
+    },
+
+    "179" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Modal Verbs",
+            "Function" : "Criticism past"
+        }
+    },
+
+    "180" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Modal Verbs",
+            "Function" : "Criticism future"
+        }
+    },
+
+    "181" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Modal Verbs",
+            "Function" : "Logical Assumption positive present"
+        }
+    },
+
+    "182" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Modal Verbs",
+            "Function" : "Logical Assumption positive future"
+        }
+    },
+
+    "183" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Modal Verbs",
+            "Function" : "Logical Assumption positive past"
+        }
+    },
+
+    "184" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Modal Verbs",
+            "Function" : "Logical Assumption negative present"
+        }
+    },
+
+    "185" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Modal Verbs",
+            "Function" : "Logical Assumption negative future"
+        }
+    },
+
+    "186" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Modal Verbs",
+            "Function" : "Logical Assumption negative past"
+        }
+    },
+
+    "187" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Modal Verbs",
+            "Function" : "Probability present"
+        }
+    },
+
+    "188" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Modal Verbs",
+            "Function" : "Probability future"
+        }
+    },
+
+    "189" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Modal Verbs",
+            "Function" : "Probability past"
+        }
+    },
+
+    "190" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Modal Verbs",
+            "Function" : "Permission present"
+        }
+    },
+
+    "191" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Modal Verbs",
+            "Function" : "Permission future"
+        }
+    },
+
+    "192" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Modal Verbs",
+            "Function" : "Permission past"
+        }
+    },
+
+    "193" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Modal Verbs",
+            "Function" : "Offers / Suggestions"
+        }
+    },
+
+    "194" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Modal Verbs",
+            "Function" : "Advice present"
+        }
+    },
+
+    "195" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Modal Verbs",
+            "Function" : "Advice future"
+        }
+    },
+
+    "196" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Modal Verbs",
+            "Usage" : "Advice past"
+        }
+    },
+
+    "197" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "To be",
+            "Usage" : "The verb 'To be' in present when there is no other verb"
+        }
+    },
+
+    "198" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "To be",
+            "Usage" : "'There is' for sentences with no subject if the object is singular"
+        }
+    },
+
+    "199" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "To be",
+            "Usage" : "'There are' for sentences with no subject if the object is plural"
+        }
+    },
+
+    "200" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Preposition ‘to’",
+            "Usage" : "To show direction (куда?)"
+        }
+    },
+
+    "201" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Preposition ‘to’",
+            "Usage" : "Between two verbs"
+        }
+    },
+
+    "202" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Preposition ‘to’",
+            "Usage" : "To express purpose ('для того чтобы')"
+        }
+    },
+
+    "203" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Preposition ‘on’",
+            "Usage" : "With trips (for both 'куда?' and 'где?')"
+        }
+    },
+
+    "204" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Exception",
+            "Usage" : "Abroad, home\nNo 'to’ when show direction (for both 'куда?' and 'где?')"
+        }
+    },
+
+    "205" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Preposition of time ‘in’",
+            "Usage" : "With parts of the day"
+        }
+    },
+
+    "206" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Preposition of time ‘in’",
+            "Usage" : "With months"
+        }
+    },
+
+    "207" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Preposition of time ‘in’",
+            "Usage" : "With seasons"
+        }
+    },
+
+    "208" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Preposition of time ‘in’",
+            "Usage" : "With years"
+        }
+    },
+
+    "209" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Preposition of time ‘in’",
+            "Usage" : "With decades"
+        }
+    },
+
+    "210" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Preposition of time ‘in’",
+            "Usage" : "With centuries"
+        }
+    },
+
+    "211" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Preposition of time ‘in’",
+            "Usage" : "Meaning 'через'"
+        }
+    },
+
+    "212" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Preposition of time ‘at’",
+            "Usage" : "With time"
+        }
+    },
+
+    "213" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Preposition of time ‘at’",
+            "Usage" : "With celebrations"
+        }
+    },
+
+    "214" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Preposition of time ‘at’",
+            "Usage" : "With exceptions: \n– at the moment \n– at sunset /dusk\n– at sunrise /dawn\n– at night\n– at the weekend"
+        }
+    },
+
+    "215" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Preposition of time ‘on’",
+            "Usage" : "With days of the week"
+        }
+    },
+
+    "216" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Preposition of time ‘on’",
+            "Usage" : "With phrases and words with 'day'"
+        }
+    },
+
+    "217" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Preposition of time ‘on’",
+            "Usage" : "With dates"
+        }
+    },
+
+    "218" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Preposition of time ‘on’",
+            "Usage" : "With weekends"
+        }
+    },
+
+    "219" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "No preposition of time",
+            "Usage" : "With words this /next /every /last"
+        }
+    },
+
+    "220" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Preposition of place ‘in’",
+            "Usage" : "With limited space"
+        }
+    },
+
+    "221" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Preposition of place ‘in’",
+            "Usage" : "With places"
+        }
+    },
+
+    "222" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Preposition of place ‘in’",
+            "Usage" : "With the centre/middle"
+        }
+    },
+
+    "223" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Preposition of place ‘at’",
+            "Usage" : "With home/ work/ school/ university"
+        }
+    },
+
+    "224" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Preposition of place ‘at’",
+            "Usage" : "With transport stops"
+        }
+    },
+
+    "225" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Preposition of place ‘at’",
+            "Usage" : "With events not places"
+        }
+    },
+
+    "226" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Preposition of place ‘at’",
+            "Usage" : "Meaning 'возле'"
+        }
+    },
+
+    "227" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Preposition of place ‘at’",
+            "Usage" : "With the top"
+        }
+    },
+
+    "228" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Preposition of place ‘at’",
+            "Usage" : "With the bottom"
+        }
+    },
+
+    "229" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Preposition of place ‘on’",
+            "Usage" : "On the surface of smth"
+        }
+    },
+
+    "230" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Preposition of place ‘on’",
+            "Type" : "Place",
+            "Usage" : "With coastline"
+        }
+    },
+
+    "231" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Preposition of place ‘on’",
+            "Usage" : "With media (including social media)"
+        }
+    },
+
+    "232" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Preposition of place ‘on’",
+            "Usage" : "With the left/right"
+        }
+    },
+
+    "233" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Get in/into",
+            "Usage" : "For cars/taxis"
+        }
+    },
+
+    "234" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Get on",
+            "Usage" : "For public transport"
+        }
+    },
+
+    "235" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Get out",
+            "Usage" : "Of for cars/taxis"
+        }
+    },
+
+    "236" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Get off",
+            "Usage" : "For public transport"
+        }
+    },
+
+    "237" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Go /travel /fly + by + transport",
+        }
+    },
+
+    "238" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Preposition ‘about’",
+            "Meaning" : "О чём-то/ком-то"
+        }
+    },
+
+    "239" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Preposition ‘about’",
+            "Meaning" : "Приблизительно"
+        }
+    },
+
+    "240" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Preposition ‘with’",
+            "Meaning" : "С (кем-то, чем-то)"
+        }
+    },
+
+    "241" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Preposition ‘from’",
+            "Meaning" : "‘Из’ (от куда-то)"
+        }
+    },
+
+    "242" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Look + at",
+            "Meaning" : "Смотреть на"
+        }
+    },
+
+    "243" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Look + for",
+            "Meaning" : "Искать"
+        }
+    },
+
+    "244" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Look + forward to",
+            "Meaning" : "С нетерпением ждать"
+        }
+    },
+
+    "245" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Wait + for",
+            "Meaning" : "Ждать кого-то/чего-то"
+        }
+    },
+
+    "246" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Listen + to",
+            "Meaning" : "Слушать кого-то/что-то"
+        }
+    },
+
+    "247" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Preposition ‘after’",
+            "Meaning" : "После"
+        }
+    },
+
+    "248" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Really",
+            "Meaning" : "‘Очень’ before verbs and adjectives"
+        }
+    },
+
+    "249" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Very",
+            "Meaning" : "‘Очень’ before adjectives"
+        }
+    },
+
+    "250" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Article ‘a/an’",
+            "Usage" : "With indefinite singular noun"
+        }
+    },
+
+    "251" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Article ‘a/an’",
+            "Usage" : "With names of the jobs"
+        }
+    },
+
+    "252" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Article ‘a/an’",
+            "Usage" : "With phrases of frequency"
+        }
+    },
+
+    "253" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Article ‘the’",
+            "Usage" : "With definite singular noun"
+        }
+    },
+
+    "254" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Article ‘the’",
+            "Usage" : "With definite plural noun"
+        }
+    },
+
+    "255" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Article ‘the’",
+            "Usage" : "With definite uncountable noun"
+        }
+    },
+
+    "256" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Article ‘the’",
+            "Usage" : "With definite plural noun"
+        }
+    },
+
+    "257" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Article ‘the’",
+            "Usage" : "With names of buildings and places"
+        }
+    },
+
+    "258" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Article ‘the’",
+            "Usage" : "With the idea of a group"
+        }
+    },
+
+    "259" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Article ‘the’",
+            "Usage" : "With body of water"
+        }
+    },
+
+    "260" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Article ‘the’",
+            "Usage" : "With unique noun"
+        }
+    },
+
+    "261" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Zero article",
+            "Usage" : "With proper names"
+        }
+    },
+
+    "262" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Zero article",
+            "Usage" : "With indefinite plural nouns"
+        }
+    },
+
+    "263" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Zero article",
+            "Usage" : "With indefinite uncountable noun"
+        }
+    },
+
+    "264" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Zero article",
+            "Usage" : "With possessive pronouns"
+        }
+    },
+
+    "265" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Zero article",
+            "Usage" : "With names of meals"
+        }
+    },
+
+    "266" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "General question",
+            "Type" : "Positive",
+            "Form" : [
+                ["Aux. Verb + Subject + Main Verb + Add. Info?"],
+            ],
+        }
+    },
+
+    "267" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "General question",
+            "Type" : "Negative",
+            "Form" : [
+                ["Aux. Verb + n't + Subject + Main Verb + Add. Info\n\nAux. Verb + Subject + not + Main Verb + Add. Info?"],
+            ],
+        }
+    },
+
+    "268" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Special question",
+            "Form" : [
+                ["Question word/phrase \n+ Aux. Verb + Subject + Main Verb + Add. Info?"],
+            ],
+        }
+    },
+
+    "269" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Alternative question",
+            "Form" : [
+                ["Question word/phrase + \nAux. Verb + ... or ... ?"],
+            ],
+        }
+    },
+
+    "270" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Tag question",
+            "Type" : "Positive",
+            "Form" : [
+                ["(+)", "(–)"],
+                ["Subject \n+ Verb + ...,", "(-)Aux. Verb + \nSubject"]
+            ],
+        }
+    },
+
+    "271" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Tag question",
+            "Type" : "Negative",
+            "Form" : [
+                ["(-)", "(+)"],
+                ["Subject \n+ (-)Verb + ...,", "Aux. Verb + \nSubject"]
+            ],
+        }
+    },
+
+    "272" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Imperative",
+            "Form" : "Positive form"
+        }
+    },
+
+    "273" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Imperative",
+            "Usage" : "Negative form"
+        }
+    },
+
+    "274" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Comparative form",
+            "Usage" : "For 1 syllable adjectives"
+        }
+    },
+
+    "275" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Superlative form",
+            "Usage" : "For 1 syllable adjectives"
+        }
+    },
+
+    "276" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Comparative form",
+            "Usage" : "For 2 syllable adjectives ending in y"
+        }
+    },
+
+    "277" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Superlative form",
+            "Usage" : "For 2 syllable adjectives ending in y"
+        }
+    },
+
+    "278" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Comparative form",
+            "Usage" : "For 2 and more syllable adjectives"
+        }
+    },
+
+    "279" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Superlative form",
+            "Usage" : "For 2 and more syllable adjectives"
+        }
+    },
+    
+    "280" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Irregular adjectives",
+            "Form" : "good, well > better > best\nbad > worse > worst\nmany, much > more > most\nlittle > littler, less > littlest, least"
+        }
+    },
+    
+    "281" : {
+        "type" : "tense",
+        "fields" : {
+            "Rule" : "Preposition ‘of‘",
+            "Form" : "after nouns for “кого? чего?”"
+        }
+    },
+    
+    
+}
