@@ -12,10 +12,35 @@
 		897B2A802340FC1A00CC591A /* Functions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 897B2A7F2340FC1A00CC591A /* Functions.swift */; };
 		89A25B9722FF2055003AA61B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89A25B9622FF2055003AA61B /* main.swift */; };
 		89B34767233F95FC003E2B28 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89B34766233F95FC003E2B28 /* Extensions.swift */; };
+		B81932B123B65AEA00CEBCCB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = B81932B023B65AEA00CEBCCB /* main.swift */; };
+		B89C777C23B65C1700F23E64 /* SentenceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89C776023B65C1700F23E64 /* SentenceController.swift */; };
+		B89C777D23B65C1700F23E64 /* SentenceController+FindCorrectOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89C776123B65C1700F23E64 /* SentenceController+FindCorrectOne.swift */; };
+		B89C777E23B65C1700F23E64 /* CartesianProduct.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89C776323B65C1700F23E64 /* CartesianProduct.swift */; };
+		B89C777F23B65C1700F23E64 /* PySwiftyRegex.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89C776523B65C1700F23E64 /* PySwiftyRegex.swift */; };
+		B89C778023B65C1700F23E64 /* StringConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89C776923B65C1700F23E64 /* StringConstants.swift */; };
+		B89C778123B65C1700F23E64 /* SentencePart.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89C776C23B65C1700F23E64 /* SentencePart.swift */; };
+		B89C778223B65C1700F23E64 /* Sentence.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89C776D23B65C1700F23E64 /* Sentence.swift */; };
+		B89C778323B65C1700F23E64 /* Correct.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89C776E23B65C1700F23E64 /* Correct.swift */; };
+		B89C778423B65C1700F23E64 /* Rules.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89C777023B65C1700F23E64 /* Rules.swift */; };
+		B89C778523B65C1700F23E64 /* SentenceControllerError.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89C777323B65C1700F23E64 /* SentenceControllerError.swift */; };
+		B89C778623B65C1700F23E64 /* RegexResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89C777523B65C1700F23E64 /* RegexResult.swift */; };
+		B89C778723B65C1700F23E64 /* CorrectSentence.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89C777723B65C1700F23E64 /* CorrectSentence.swift */; };
+		B89C778823B65C1700F23E64 /* CollectionsExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89C777923B65C1700F23E64 /* CollectionsExtensions.swift */; };
+		B89C778923B65C1700F23E64 /* StringExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89C777A23B65C1700F23E64 /* StringExtensions.swift */; };
+		B89C778A23B65C1700F23E64 /* NumericExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89C777B23B65C1700F23E64 /* NumericExtensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
 		89A25B9122FF2055003AA61B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		B81932AC23B65AEA00CEBCCB /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -33,28 +58,36 @@
 		89A25B9322FF2055003AA61B /* CMD */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CMD; sourceTree = BUILT_PRODUCTS_DIR; };
 		89A25B9622FF2055003AA61B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		89B34766233F95FC003E2B28 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
-		B8A1D72123B21BE30027F1F5 /* StringConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringConstants.swift; sourceTree = "<group>"; };
-		B8A1D72323B21BE30027F1F5 /* rules.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = rules.json; sourceTree = "<group>"; };
-		B8A1D72523B21BE30027F1F5 /* CollectionsExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionsExtensions.swift; sourceTree = "<group>"; };
-		B8A1D72623B21BE30027F1F5 /* StringExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringExtensions.swift; sourceTree = "<group>"; };
-		B8A1D72723B21BE30027F1F5 /* NumericExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumericExtensions.swift; sourceTree = "<group>"; };
-		B8A1D72A23B21BE30027F1F5 /* SentencePart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SentencePart.swift; sourceTree = "<group>"; };
-		B8A1D72B23B21BE30027F1F5 /* Sentence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sentence.swift; sourceTree = "<group>"; };
-		B8A1D72C23B21BE30027F1F5 /* Correct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Correct.swift; sourceTree = "<group>"; };
-		B8A1D72E23B21BE30027F1F5 /* Rules.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rules.swift; sourceTree = "<group>"; };
-		B8A1D72F23B21BE30027F1F5 /* rules.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = rules.json; sourceTree = "<group>"; };
-		B8A1D73123B21BE30027F1F5 /* SentenceControllerError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SentenceControllerError.swift; sourceTree = "<group>"; };
-		B8A1D73323B21BE30027F1F5 /* RegexResult.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegexResult.swift; sourceTree = "<group>"; };
-		B8A1D73523B21BE30027F1F5 /* CorrectSentence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CorrectSentence.swift; sourceTree = "<group>"; };
-		B8A1D73623B21BE30027F1F5 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
-		B8A1D73923B21BE30027F1F5 /* SentenceController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SentenceController.swift; sourceTree = "<group>"; };
-		B8A1D73A23B21BE30027F1F5 /* SentenceController+FindCorrectOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SentenceController+FindCorrectOne.swift"; sourceTree = "<group>"; };
-		B8A1D73C23B21BE30027F1F5 /* CartesianProduct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CartesianProduct.swift; sourceTree = "<group>"; };
-		B8A1D73E23B21BE30027F1F5 /* PySwiftyRegex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PySwiftyRegex.swift; sourceTree = "<group>"; };
+		B81932AE23B65AEA00CEBCCB /* PreviousAlgo */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = PreviousAlgo; sourceTree = BUILT_PRODUCTS_DIR; };
+		B81932B023B65AEA00CEBCCB /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		B89C776023B65C1700F23E64 /* SentenceController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SentenceController.swift; sourceTree = "<group>"; };
+		B89C776123B65C1700F23E64 /* SentenceController+FindCorrectOne.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "SentenceController+FindCorrectOne.swift"; sourceTree = "<group>"; };
+		B89C776323B65C1700F23E64 /* CartesianProduct.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CartesianProduct.swift; sourceTree = "<group>"; };
+		B89C776523B65C1700F23E64 /* PySwiftyRegex.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PySwiftyRegex.swift; sourceTree = "<group>"; };
+		B89C776723B65C1700F23E64 /* rules.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = rules.json; sourceTree = "<group>"; };
+		B89C776923B65C1700F23E64 /* StringConstants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StringConstants.swift; sourceTree = "<group>"; };
+		B89C776C23B65C1700F23E64 /* SentencePart.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SentencePart.swift; sourceTree = "<group>"; };
+		B89C776D23B65C1700F23E64 /* Sentence.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Sentence.swift; sourceTree = "<group>"; };
+		B89C776E23B65C1700F23E64 /* Correct.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Correct.swift; sourceTree = "<group>"; };
+		B89C777023B65C1700F23E64 /* Rules.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Rules.swift; sourceTree = "<group>"; };
+		B89C777123B65C1700F23E64 /* rules.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = rules.json; sourceTree = "<group>"; };
+		B89C777323B65C1700F23E64 /* SentenceControllerError.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SentenceControllerError.swift; sourceTree = "<group>"; };
+		B89C777523B65C1700F23E64 /* RegexResult.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RegexResult.swift; sourceTree = "<group>"; };
+		B89C777723B65C1700F23E64 /* CorrectSentence.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CorrectSentence.swift; sourceTree = "<group>"; };
+		B89C777923B65C1700F23E64 /* CollectionsExtensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CollectionsExtensions.swift; sourceTree = "<group>"; };
+		B89C777A23B65C1700F23E64 /* StringExtensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StringExtensions.swift; sourceTree = "<group>"; };
+		B89C777B23B65C1700F23E64 /* NumericExtensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NumericExtensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		89A25B9022FF2055003AA61B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B81932AB23B65AEA00CEBCCB /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -68,8 +101,8 @@
 			isa = PBXGroup;
 			children = (
 				89A25B9522FF2055003AA61B /* CMD */,
+				B81932AF23B65AEA00CEBCCB /* PreviousAlgo */,
 				89A25B9422FF2055003AA61B /* Products */,
-				B8A1D71F23B21BE30027F1F5 /* EnglishPlanetEngine */,
 			);
 			sourceTree = "<group>";
 		};
@@ -77,6 +110,7 @@
 			isa = PBXGroup;
 			children = (
 				89A25B9322FF2055003AA61B /* CMD */,
+				B81932AE23B65AEA00CEBCCB /* PreviousAlgo */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -93,133 +127,133 @@
 			path = CMD;
 			sourceTree = "<group>";
 		};
-		B8A1D71F23B21BE30027F1F5 /* EnglishPlanetEngine */ = {
+		B81932AF23B65AEA00CEBCCB /* PreviousAlgo */ = {
 			isa = PBXGroup;
 			children = (
-				B8A1D72023B21BE30027F1F5 /* Constants */,
-				B8A1D72223B21BE30027F1F5 /* Resources */,
-				B8A1D72423B21BE30027F1F5 /* Extensions */,
-				B8A1D72823B21BE30027F1F5 /* Model */,
-				B8A1D73623B21BE30027F1F5 /* main.swift */,
-				B8A1D73723B21BE30027F1F5 /* Controllers */,
+				B89C776823B65C1700F23E64 /* Constants */,
+				B89C775E23B65C1600F23E64 /* Controllers */,
+				B89C777823B65C1700F23E64 /* Extensions */,
+				B89C776A23B65C1700F23E64 /* Model */,
+				B89C776623B65C1700F23E64 /* Resources */,
+				B81932B023B65AEA00CEBCCB /* main.swift */,
 			);
-			path = EnglishPlanetEngine;
+			path = PreviousAlgo;
 			sourceTree = "<group>";
 		};
-		B8A1D72023B21BE30027F1F5 /* Constants */ = {
+		B89C775E23B65C1600F23E64 /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
-				B8A1D72123B21BE30027F1F5 /* StringConstants.swift */,
-			);
-			path = Constants;
-			sourceTree = "<group>";
-		};
-		B8A1D72223B21BE30027F1F5 /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				B8A1D72323B21BE30027F1F5 /* rules.json */,
-			);
-			path = Resources;
-			sourceTree = "<group>";
-		};
-		B8A1D72423B21BE30027F1F5 /* Extensions */ = {
-			isa = PBXGroup;
-			children = (
-				B8A1D72523B21BE30027F1F5 /* CollectionsExtensions.swift */,
-				B8A1D72623B21BE30027F1F5 /* StringExtensions.swift */,
-				B8A1D72723B21BE30027F1F5 /* NumericExtensions.swift */,
-			);
-			path = Extensions;
-			sourceTree = "<group>";
-		};
-		B8A1D72823B21BE30027F1F5 /* Model */ = {
-			isa = PBXGroup;
-			children = (
-				B8A1D72923B21BE30027F1F5 /* Sentence */,
-				B8A1D72D23B21BE30027F1F5 /* Rules */,
-				B8A1D73023B21BE30027F1F5 /* Errors */,
-				B8A1D73223B21BE30027F1F5 /* RegexResult */,
-				B8A1D73423B21BE30027F1F5 /* CorrectSentence */,
-			);
-			path = Model;
-			sourceTree = "<group>";
-		};
-		B8A1D72923B21BE30027F1F5 /* Sentence */ = {
-			isa = PBXGroup;
-			children = (
-				B8A1D72A23B21BE30027F1F5 /* SentencePart.swift */,
-				B8A1D72B23B21BE30027F1F5 /* Sentence.swift */,
-				B8A1D72C23B21BE30027F1F5 /* Correct.swift */,
-			);
-			path = Sentence;
-			sourceTree = "<group>";
-		};
-		B8A1D72D23B21BE30027F1F5 /* Rules */ = {
-			isa = PBXGroup;
-			children = (
-				B8A1D72E23B21BE30027F1F5 /* Rules.swift */,
-				B8A1D72F23B21BE30027F1F5 /* rules.json */,
-			);
-			path = Rules;
-			sourceTree = "<group>";
-		};
-		B8A1D73023B21BE30027F1F5 /* Errors */ = {
-			isa = PBXGroup;
-			children = (
-				B8A1D73123B21BE30027F1F5 /* SentenceControllerError.swift */,
-			);
-			path = Errors;
-			sourceTree = "<group>";
-		};
-		B8A1D73223B21BE30027F1F5 /* RegexResult */ = {
-			isa = PBXGroup;
-			children = (
-				B8A1D73323B21BE30027F1F5 /* RegexResult.swift */,
-			);
-			path = RegexResult;
-			sourceTree = "<group>";
-		};
-		B8A1D73423B21BE30027F1F5 /* CorrectSentence */ = {
-			isa = PBXGroup;
-			children = (
-				B8A1D73523B21BE30027F1F5 /* CorrectSentence.swift */,
-			);
-			path = CorrectSentence;
-			sourceTree = "<group>";
-		};
-		B8A1D73723B21BE30027F1F5 /* Controllers */ = {
-			isa = PBXGroup;
-			children = (
-				B8A1D73823B21BE30027F1F5 /* SentenceController */,
-				B8A1D73B23B21BE30027F1F5 /* CartesianProduct */,
-				B8A1D73D23B21BE30027F1F5 /* PySwiftyRegex */,
+				B89C775F23B65C1600F23E64 /* SentenceController */,
+				B89C776223B65C1700F23E64 /* CartesianProduct */,
+				B89C776423B65C1700F23E64 /* PySwiftyRegex */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
 		};
-		B8A1D73823B21BE30027F1F5 /* SentenceController */ = {
+		B89C775F23B65C1600F23E64 /* SentenceController */ = {
 			isa = PBXGroup;
 			children = (
-				B8A1D73923B21BE30027F1F5 /* SentenceController.swift */,
-				B8A1D73A23B21BE30027F1F5 /* SentenceController+FindCorrectOne.swift */,
+				B89C776023B65C1700F23E64 /* SentenceController.swift */,
+				B89C776123B65C1700F23E64 /* SentenceController+FindCorrectOne.swift */,
 			);
 			path = SentenceController;
 			sourceTree = "<group>";
 		};
-		B8A1D73B23B21BE30027F1F5 /* CartesianProduct */ = {
+		B89C776223B65C1700F23E64 /* CartesianProduct */ = {
 			isa = PBXGroup;
 			children = (
-				B8A1D73C23B21BE30027F1F5 /* CartesianProduct.swift */,
+				B89C776323B65C1700F23E64 /* CartesianProduct.swift */,
 			);
 			path = CartesianProduct;
 			sourceTree = "<group>";
 		};
-		B8A1D73D23B21BE30027F1F5 /* PySwiftyRegex */ = {
+		B89C776423B65C1700F23E64 /* PySwiftyRegex */ = {
 			isa = PBXGroup;
 			children = (
-				B8A1D73E23B21BE30027F1F5 /* PySwiftyRegex.swift */,
+				B89C776523B65C1700F23E64 /* PySwiftyRegex.swift */,
 			);
 			path = PySwiftyRegex;
+			sourceTree = "<group>";
+		};
+		B89C776623B65C1700F23E64 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				B89C776723B65C1700F23E64 /* rules.json */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		B89C776823B65C1700F23E64 /* Constants */ = {
+			isa = PBXGroup;
+			children = (
+				B89C776923B65C1700F23E64 /* StringConstants.swift */,
+			);
+			path = Constants;
+			sourceTree = "<group>";
+		};
+		B89C776A23B65C1700F23E64 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				B89C776B23B65C1700F23E64 /* Sentence */,
+				B89C776F23B65C1700F23E64 /* Rules */,
+				B89C777223B65C1700F23E64 /* Errors */,
+				B89C777423B65C1700F23E64 /* RegexResult */,
+				B89C777623B65C1700F23E64 /* CorrectSentence */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		B89C776B23B65C1700F23E64 /* Sentence */ = {
+			isa = PBXGroup;
+			children = (
+				B89C776C23B65C1700F23E64 /* SentencePart.swift */,
+				B89C776D23B65C1700F23E64 /* Sentence.swift */,
+				B89C776E23B65C1700F23E64 /* Correct.swift */,
+			);
+			path = Sentence;
+			sourceTree = "<group>";
+		};
+		B89C776F23B65C1700F23E64 /* Rules */ = {
+			isa = PBXGroup;
+			children = (
+				B89C777023B65C1700F23E64 /* Rules.swift */,
+				B89C777123B65C1700F23E64 /* rules.json */,
+			);
+			path = Rules;
+			sourceTree = "<group>";
+		};
+		B89C777223B65C1700F23E64 /* Errors */ = {
+			isa = PBXGroup;
+			children = (
+				B89C777323B65C1700F23E64 /* SentenceControllerError.swift */,
+			);
+			path = Errors;
+			sourceTree = "<group>";
+		};
+		B89C777423B65C1700F23E64 /* RegexResult */ = {
+			isa = PBXGroup;
+			children = (
+				B89C777523B65C1700F23E64 /* RegexResult.swift */,
+			);
+			path = RegexResult;
+			sourceTree = "<group>";
+		};
+		B89C777623B65C1700F23E64 /* CorrectSentence */ = {
+			isa = PBXGroup;
+			children = (
+				B89C777723B65C1700F23E64 /* CorrectSentence.swift */,
+			);
+			path = CorrectSentence;
+			sourceTree = "<group>";
+		};
+		B89C777823B65C1700F23E64 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				B89C777923B65C1700F23E64 /* CollectionsExtensions.swift */,
+				B89C777A23B65C1700F23E64 /* StringExtensions.swift */,
+				B89C777B23B65C1700F23E64 /* NumericExtensions.swift */,
+			);
+			path = Extensions;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -242,6 +276,23 @@
 			productReference = 89A25B9322FF2055003AA61B /* CMD */;
 			productType = "com.apple.product-type.tool";
 		};
+		B81932AD23B65AEA00CEBCCB /* PreviousAlgo */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B81932B223B65AEA00CEBCCB /* Build configuration list for PBXNativeTarget "PreviousAlgo" */;
+			buildPhases = (
+				B81932AA23B65AEA00CEBCCB /* Sources */,
+				B81932AB23B65AEA00CEBCCB /* Frameworks */,
+				B81932AC23B65AEA00CEBCCB /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = PreviousAlgo;
+			productName = PreviousAlgo;
+			productReference = B81932AE23B65AEA00CEBCCB /* PreviousAlgo */;
+			productType = "com.apple.product-type.tool";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -253,6 +304,9 @@
 				ORGANIZATIONNAME = "Serge Vysotsky";
 				TargetAttributes = {
 					89A25B9222FF2055003AA61B = {
+						CreatedOnToolsVersion = 11.0;
+					};
+					B81932AD23B65AEA00CEBCCB = {
 						CreatedOnToolsVersion = 11.0;
 					};
 				};
@@ -271,6 +325,7 @@
 			projectRoot = "";
 			targets = (
 				89A25B9222FF2055003AA61B /* CMD */,
+				B81932AD23B65AEA00CEBCCB /* PreviousAlgo */,
 			);
 		};
 /* End PBXProject section */
@@ -285,6 +340,29 @@
 				89B34767233F95FC003E2B28 /* Extensions.swift in Sources */,
 				897B2A7E2340ED4F00CC591A /* Dump.swift in Sources */,
 				897B2A802340FC1A00CC591A /* Functions.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B81932AA23B65AEA00CEBCCB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B89C777F23B65C1700F23E64 /* PySwiftyRegex.swift in Sources */,
+				B89C778523B65C1700F23E64 /* SentenceControllerError.swift in Sources */,
+				B89C778123B65C1700F23E64 /* SentencePart.swift in Sources */,
+				B89C777E23B65C1700F23E64 /* CartesianProduct.swift in Sources */,
+				B89C778023B65C1700F23E64 /* StringConstants.swift in Sources */,
+				B89C778A23B65C1700F23E64 /* NumericExtensions.swift in Sources */,
+				B89C777D23B65C1700F23E64 /* SentenceController+FindCorrectOne.swift in Sources */,
+				B89C777C23B65C1700F23E64 /* SentenceController.swift in Sources */,
+				B89C778223B65C1700F23E64 /* Sentence.swift in Sources */,
+				B89C778723B65C1700F23E64 /* CorrectSentence.swift in Sources */,
+				B89C778323B65C1700F23E64 /* Correct.swift in Sources */,
+				B81932B123B65AEA00CEBCCB /* main.swift in Sources */,
+				B89C778823B65C1700F23E64 /* CollectionsExtensions.swift in Sources */,
+				B89C778923B65C1700F23E64 /* StringExtensions.swift in Sources */,
+				B89C778623B65C1700F23E64 /* RegexResult.swift in Sources */,
+				B89C778423B65C1700F23E64 /* Rules.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -426,6 +504,30 @@
 			};
 			name = Release;
 		};
+		B81932B323B65AEA00CEBCCB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 7KV2TQ6H67;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		B81932B423B65AEA00CEBCCB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 7KV2TQ6H67;
+				ENABLE_HARDENED_RUNTIME = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -443,6 +545,15 @@
 			buildConfigurations = (
 				89A25B9B22FF2055003AA61B /* Debug */,
 				89A25B9C22FF2055003AA61B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B81932B223B65AEA00CEBCCB /* Build configuration list for PBXNativeTarget "PreviousAlgo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B81932B323B65AEA00CEBCCB /* Debug */,
+				B81932B423B65AEA00CEBCCB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
