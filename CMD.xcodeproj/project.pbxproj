@@ -13,6 +13,7 @@
 		89A25B9722FF2055003AA61B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89A25B9622FF2055003AA61B /* main.swift */; };
 		89B34767233F95FC003E2B28 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89B34766233F95FC003E2B28 /* Extensions.swift */; };
 		B81932B123B65AEA00CEBCCB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = B81932B023B65AEA00CEBCCB /* main.swift */; };
+		B856156523C36DAD006F5DEA /* CheckSentenceData.swift in Sources */ = {isa = PBXBuildFile; fileRef = B856156423C36DAD006F5DEA /* CheckSentenceData.swift */; };
 		B89C777C23B65C1700F23E64 /* SentenceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89C776023B65C1700F23E64 /* SentenceController.swift */; };
 		B89C777D23B65C1700F23E64 /* SentenceController+FindCorrectOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89C776123B65C1700F23E64 /* SentenceController+FindCorrectOne.swift */; };
 		B89C777E23B65C1700F23E64 /* CartesianProduct.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89C776323B65C1700F23E64 /* CartesianProduct.swift */; };
@@ -60,6 +61,7 @@
 		89B34766233F95FC003E2B28 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		B81932AE23B65AEA00CEBCCB /* PreviousAlgo */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = PreviousAlgo; sourceTree = BUILT_PRODUCTS_DIR; };
 		B81932B023B65AEA00CEBCCB /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		B856156423C36DAD006F5DEA /* CheckSentenceData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CheckSentenceData.swift; sourceTree = "<group>"; };
 		B89C776023B65C1700F23E64 /* SentenceController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SentenceController.swift; sourceTree = "<group>"; };
 		B89C776123B65C1700F23E64 /* SentenceController+FindCorrectOne.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "SentenceController+FindCorrectOne.swift"; sourceTree = "<group>"; };
 		B89C776323B65C1700F23E64 /* CartesianProduct.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CartesianProduct.swift; sourceTree = "<group>"; };
@@ -130,6 +132,7 @@
 		B81932AF23B65AEA00CEBCCB /* PreviousAlgo */ = {
 			isa = PBXGroup;
 			children = (
+				B856156423C36DAD006F5DEA /* CheckSentenceData.swift */,
 				B89C776823B65C1700F23E64 /* Constants */,
 				B89C775E23B65C1600F23E64 /* Controllers */,
 				B89C777823B65C1700F23E64 /* Extensions */,
@@ -352,6 +355,7 @@
 				B89C778123B65C1700F23E64 /* SentencePart.swift in Sources */,
 				B89C777E23B65C1700F23E64 /* CartesianProduct.swift in Sources */,
 				B89C778023B65C1700F23E64 /* StringConstants.swift in Sources */,
+				B856156523C36DAD006F5DEA /* CheckSentenceData.swift in Sources */,
 				B89C778A23B65C1700F23E64 /* NumericExtensions.swift in Sources */,
 				B89C777D23B65C1700F23E64 /* SentenceController+FindCorrectOne.swift in Sources */,
 				B89C777C23B65C1700F23E64 /* SentenceController.swift in Sources */,
